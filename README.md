@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e293b,50:0f172a,100:020617&text=Bhavesh%20Gandhi&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bhavesh+Gandhi;Engineering+Student;Minimal+Design+Lover+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bhavesh+Gandhi;Engineering+Student;Building+impactful+digital+solutions+⚡" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=2&section=header" width="60%"/>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=🎓+I+am+Engineering+Student;💻+Love+clean+UI+%26+modern+web+tech;⚡+Focused+on+building+smooth+experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=🎓+Engineering+Student;💻+Focused+on+Web+Development+%26+Data;📊+Turning+data+into+insights" />
 
 </div>
 
@@ -28,7 +28,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,js,ts,python,java,react,nextjs,nodejs,postgres,mongodb,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python&theme=dark" /><br><br>
+
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=database&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MS%20Excel-0f172a?style=for-the-badge&logo=microsoft-excel&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/PowerBI-0f172a?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=38BDF8" />
 
 </div>
 
@@ -60,14 +66,12 @@
 
 <div align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/bhavesh-gandhi-56ab99248/">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
-<a href="#">
+
+<a href="mailto:bhaveshgandhi717@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
 </a>
 
 </div>
