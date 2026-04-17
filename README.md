@@ -28,14 +28,16 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/CSS-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=database&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
+
 <br><br>
+
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/MS%20Excel-020617?style=for-the-badge&logo=microsoft-excel&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/PowerBI-020617?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Power%20BI-020617?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Tableau-020617?style=for-the-badge&logo=tableau&logoColor=38BDF8" />
 
 </div>
