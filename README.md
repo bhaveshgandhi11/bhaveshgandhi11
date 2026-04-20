@@ -27,18 +27,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/MS%20Excel-020617?style=for-the-badge&logo=microsoft-excel&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Power%20BI-020617?style=for-the-badge&logo=powerbi&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Tableau-020617?style=for-the-badge&logo=tableau&logoColor=38BDF8" />
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=python,js,html,css,java,react,nodejs,postgres,mongodb,r" height="48" style="margin: 0 10px;" /><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" style="margin: 0 10px;" /><img src="https://img.icons8.com/color/48/power-bi.png" height="48" style="margin: 0 10px;" /><img src="https://img.icons8.com/color/48/tableau-software.png" height="48" style="margin: 0 10px;" /><img src="https://img.icons8.com/color/48/numpy.png" height="48" style="margin: 0 10px;" />
+</p>
 
 </div>
 
